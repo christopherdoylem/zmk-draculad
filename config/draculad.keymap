@@ -35,7 +35,7 @@
         ctrl-backspace {
             timeout-ms = <40>;
             bindings = <&kp LC(BACKSPACE)>;
-            key-positions = <26 27 28>;
+            key-positions = <28 29 30>;
         };
 
         left-parenthesis {
