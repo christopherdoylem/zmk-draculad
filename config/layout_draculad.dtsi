@@ -63,4 +63,4 @@
 #define POS_MIDL  25
 #define POS_MIDR  26
 
-#define HAS_ENCODER
+// No knob fitted on this one, so no HAS_ENCODER.
